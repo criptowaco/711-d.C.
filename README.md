@@ -8,7 +8,7 @@
 - Desarrollado con React.
 - Sistema de inventario y atributos de personaje.
 
----
+
 
 ## Cómo Configurar el Proyecto en tu Máquina
 
@@ -26,7 +26,7 @@ git --version  # Muestra la versión de Git
 
 Si ves números de versión en la terminal, significa que están instalados correctamente.
 
----
+
 
 ### 2. Clonar el Repositorio desde GitHub
 Para trabajar en el proyecto, primero debes descargarlo desde GitHub. Abre la terminal y ejecuta:
@@ -40,7 +40,7 @@ Luego, entra a la carpeta del proyecto:
 cd 711dc
 ```
 
----
+
 
 ### 3. Instalar Dependencias
 El proyecto usa varias librerías de JavaScript. Para instalarlas, ejecuta:
@@ -49,7 +49,7 @@ npm install
 ```
 Esto descargará todas las dependencias necesarias.
 
----
+
 
 ### 4. Ejecutar el Juego en Modo Desarrollo
 Para iniciar el juego en tu navegador, ejecuta:
@@ -61,7 +61,7 @@ Esto abrirá una ventana en tu navegador con el juego en ejecución. Si no se ab
 http://localhost:5173/
 ```
 
----
+
 
 ## Cómo Hacer Cambios en el Código y Subirlos a GitHub
 
@@ -97,12 +97,12 @@ Esto subirá los cambios a tu repositorio en GitHub.
 
 Si quieres fusionar tu rama con la principal (`main`), abre GitHub, ve a "Pull Requests" y crea una nueva solicitud de fusión.
 
----
+
 
 ## Contribuir al Proyecto
 Si otras personas quieren colaborar en el proyecto, pueden clonar el repositorio y seguir los mismos pasos para hacer cambios y subirlos a GitHub.
 
----
+
 
 ## Licencia
 Este proyecto se encuentra bajo la licencia **MIT**, lo que significa que puedes modificarlo y distribuirlo libremente siempre que menciones la fuente original.
